@@ -21,7 +21,7 @@ Do your best to answer the questions with specific details when required fully. 
 
 - What is the URL of the documentation?
 
-> http://developers.steem.io/quickstart/#quickstart-choose-library
+> https://developers.steem.io/services/
 
 - What is the full URL of one endpoint?
 
@@ -131,7 +131,7 @@ Do your best to answer the questions with specific details when required fully. 
 
 > `Content-Type` application/json; charset=utf-8
 
-> `Content-Length` 139
+> `Content-Length` 2814
 
 - Summarize the most salient parts of the data you are getting back (for example, Cat facts returns JSON that identifies the source of the cat fact, the cat fact, information about when the fact was created and updated, and the fact itself).
 

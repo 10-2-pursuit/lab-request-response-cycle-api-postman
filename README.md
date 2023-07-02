@@ -13,36 +13,38 @@ Do your best to answer the questions with specific details when required fully. 
 
 - Which one did you choose? Provide the name and base URL
 
-> http://
+> https://developer.edamam.com/
 
 - What purpose is this API for (education/fun and games/information/etc.)?
 
-> The purpose of this API is
+> The purpose of this API is to allow you to search through millions of web recipes and integrate this information into your mobile or web applications.
 
 - What is the URL of the documentation?
 
-> http://
+> http://https://api.edamam.com/api/recipes/v2
 
 - What is the full URL of one endpoint?
 
-> http://
+> http://developer.edamam.com/edamam-docs-recipe-api
 
 - What is a sample of the data from the endpoint (copy and paste results from Postman, ok to shorten if it’s over 100 lines)? Be sure to wrap your answer in the correct formatting for code/JSON.
 
-```json
-
+```json 
+<!-- Start of edamamhelp Zendesk Widget script -->
+		<script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=c3c17823-b543-44d2-886d-3e2e2e271de9"></script>
+		<script type="text/javascript">
 
 ```
 
 - What status code did you get back?
 
-> 00
+> 200
 
 - Click on the **response** headers in Postman. What are the `Content-Type` and `Content-Length` (provide exact values)?
 
-> `Content-Type`
+> `Content-Type` text/html; charset=utf-8
 
-> `Content-Length`
+> `Content-Length` 
 
 - Summarize the most salient parts of the data you are getting back (for example, Cat facts returns JSON that identifies the source of the cat fact, the cat fact, information about when the fact was created and updated, and the fact itself).
 
